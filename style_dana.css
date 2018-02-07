@@ -1,0 +1,25 @@
+#wrap1 {width:1200px; height:1000px; background:#fff; margin: 0 auto;}
+#header {width:1200px; height:200px; background:#fff; border-bottom: solid 1px #000;}
+#header #logo {padding: 30px 0 30px; }
+#logo h1 {font-size: 25pt; text-align: center;}
+
+#topmenu {float: right; padding: 10px;}
+#topmenu ul li {float:left; padding-left:10px;}
+#topmenu ul li a{color: #000; text-decoration: none; padding: 0 5px;}
+#topmenu ul li a:hover{color: #666; text-decoration: underline; padding: 0 5px;}
+
+#center {width:1200px; height:600px; background:green;}
+#footer {width:1200px; height:200px; background:#99d9c3;}
+
+
+#sub_bn p img {width:180px;}
+#sub_bn p {padding:10px 0;}
+#left {width:200px; height:600px; background:#ffc0bb; float:left;}
+#right {width:1000px; height:600px; background:#edebe7; float:right;}
+
+h1,h3,h5 {color:red; font-family:나눔고딕;}
+
+#cate {padding:20px;}
+#board {padding:40px 0 100px;}
+#cate ul li {padding:10px 0;}
+#board ul li a {font-family:나눔고딕; font-size:16px; color:#3a3a3a; text-decoration:none;}
